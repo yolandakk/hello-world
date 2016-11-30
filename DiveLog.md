@@ -12,9 +12,11 @@ Time         Depth         Dive time
 2016.10.4    18.3m         47ms
 2016.10.4    17.2m         46ms
 2016.10.5    21.3m         24ms
+Sipadan Day
 2016.10.6    26.5m         32ms
 2016.10.6    20.8m         39ms
 2016.10.6    17.7m         41ms
+Sipdan Day end
 2016.10.7    25.2m         39ms
 2016.10.7    27.0m         45ms
 simponar, sipadan
